@@ -4,6 +4,7 @@
     <remote name="myself" fetch="https://github.com/LynzhX" />
     <remote name="officialputuid" fetch="https://github.com/officialputuid" />
     <remote name="patch" fetch="https://github.com/LynzhXPatch" />
+    <remote name="silont" fetch="https://github.com/silont-project" />
 
     <!-- Sync trees -->
     <project path="device/realme/mt6785-common" name="android_device_realme_mt6785-common" remote="myself" revision="a" />
@@ -16,7 +17,7 @@
     <project path="external/selinux" name="platform_external_selinux-1" remote="patch" revision="sushi" />
 
     <!-- silonT -->
-    <project path="prebuilts/clang/host/linux-x86/clang-SilonT" name="silont-project/silont-clang" remote="github" revision="master" />
+    <project path="prebuilts/clang/host/linux-x86/clang-SilonT" name="silont-clang" remote="silont" revision="master" />
 
     <!-- Apps -->
     <project path="packages/apps/RealmeParts" name="android_packages_apps_RealmeParts" remote="myself" revision="11.0" />
