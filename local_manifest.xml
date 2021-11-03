@@ -8,7 +8,7 @@
     <!-- Sync trees -->
     <project path="device/realme/mt6785-common" name="android_device_realme_mt6785-common" remote="myself" revision="12.0-rUI1" />
     <project path="device/realme/RMX2001" name="android_device_realme_RMX2001" remote="myself" revision="blastemp" />
-    <project path="kernel/realme/RMX2001" name="android_kernel_realme_RMX2001" remote="myself" revision="lineage-18.1" clone-depth="1" />
+    <project path="kernel/realme/RMX2001" name="SamarV-121/android_kernel_realme_RMX2001" remote="github" revision="lineage-18.1" clone-depth="1" />
     <project path="vendor/realme" name="proprietary_vendor_realme" remote="officialputuid" revision="12.0-rUI1" />
 
     <!--Native-->
