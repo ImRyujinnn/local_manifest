@@ -7,7 +7,7 @@
 
     <!-- Sync trees -->
     <project path="device/realme/mt6785-common" name="android_device_realme_mt6785-common" remote="myself" revision="twelve" />
-    <project path="device/realme/RMX2001" name="android_device_realme_RMX2001" remote="myself" revision="styx" />
+    <project path="device/realme/RMX2001" name="android_device_realme_RMX2001" remote="myself" revision="Styx" />
     <project path="kernel/realme/RMX2001" name="android_kernel_realme_RMX2001" remote="officialputuid" revision="main" />
     <project path="vendor/realme" name="proprietary_vendor_realme" remote="officialputuid" revision="twelve" />
     <project path="vendor/mtk-ims" name="vendor_mtk-ims" remote="officialputuid" revision="twelve" />
