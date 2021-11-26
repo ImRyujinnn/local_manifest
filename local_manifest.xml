@@ -16,6 +16,9 @@
     <remove-project name="external_selinux" />
     <project path="external/selinux" name="SamarV-121/platform_external_selinux" remote="github" revision="android-12.0" />
 
+    <remove-project name="frameworks_base" />
+    <project path="frameworks/base" name="frameworks_base" remote="myself" revision="S" />
+
     <!-- Apps -->
     <project path="packages/apps/RealmeParts" name="android_packages_apps_RealmeParts" remote="myself" revision="twelve" />
     <project path="packages/apps/RealmeDirac" name="android_packages_apps_RealmeDirac" remote="officialputuid" revision="twelve" />
