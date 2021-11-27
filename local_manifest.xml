@@ -19,6 +19,12 @@
     <remove-project name="frameworks_base" />
     <project path="frameworks/base" name="frameworks_base" remote="myself" revision="S" />
 
+    <remove-project name="platform/packages/modules/Wifi" />
+    <project path="packages/modules/wifi" name="sarthakroy2002/packages_modules_wifi" remote="github" revision="12" />
+
+    <remove-project name="frameworks_opt_net_ims" />
+    <project path="frameworks/opt/net/ims" name="LynzhXPatch/frameworks_opt_net_ims" remote="github" revision="S" />
+
     <!-- Apps -->
     <project path="packages/apps/RealmeParts" name="android_packages_apps_RealmeParts" remote="myself" revision="twelve" />
     <project path="packages/apps/RealmeDirac" name="android_packages_apps_RealmeDirac" remote="officialputuid" revision="twelve" />
