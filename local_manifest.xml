@@ -22,7 +22,7 @@
     <remove-project name="platform/packages/modules/Wifi" />
     <project path="packages/modules/wifi" name="sarthakroy2002/packages_modules_wifi" remote="github" revision="12" />
 
-    <remove-project name="frameworks/opt/net/ims" />
+    <remove-project name="platform/frameworks/opt/net/ims" />
     <project path="frameworks/opt/net/ims" name="LynzhXPatch/frameworks_opt_net_ims" remote="github" revision="S" />
 
     <!-- Apps -->
