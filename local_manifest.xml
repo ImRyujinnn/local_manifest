@@ -17,9 +17,6 @@
     <remove-project name="external_selinux" />
     <project path="external/selinux" name="SamarV-121/platform_external_selinux" remote="github" revision="android-12.0" />
 
-    <remove-project name="frameworks_base" />
-    <project path="frameworks/base" name="frameworks_base" remote="myself" revision="S" />
-
     <remove-project name="platform/packages/modules/Wifi" />
     <project path="packages/modules/wifi" name="packages_modules_wifi" remote="patch" revision="twelve" />
 
