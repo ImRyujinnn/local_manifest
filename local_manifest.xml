@@ -22,6 +22,7 @@
     <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="los" />
 
     <!-- fw Telephony -->
-    <remove-project path="frameworks/opt/Telephony" name="frameworks_opt_telephony" remote="los" />
+    <remove-project name="frameworks_opt_telephony" />
+    <project path="frameworks/opt/Telephony" name="android_frameworks_opt_telephony" remote="los" />
 
     </manifest>
