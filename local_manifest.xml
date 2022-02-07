@@ -10,8 +10,6 @@
     <project path="kernel/realme/RMX2001" name="android_kernel_realme_RMX2001" remote="myself" revision="lineage-18.1" />
     <project path="vendor/realme/RMX2001" name="vendor_realme_RMX2001" remote="myself" revision="ten" />
 
-    <project path="kernel/realme/RMX2020" name="pik" remote="myself" revision="main" />
-
     <!-- fwb -->
     <remove-project name="android_frameworks_base" />
     <project path="frameworks/base" name="android_frameworks_base-1" remote="myself" revision="Q" />
