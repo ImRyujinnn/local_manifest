@@ -8,7 +8,7 @@
 
     <!-- Sync trees -->
     <project path="device/realme/RMX2001" name="device_realme_RMX2001" remote="myself" revision="rr-10" />
-    <project path="kernel/realme/RMX2001" name="SamarV-121/android_kernel_realme_RMX2001" remote="gb" revision="lineage-18.1" />
+    <project path="kernel/realme/RMX2001" name="officialputuid/android_kernel_realme_RMX2001" remote="gb" revision="main" />
     <project path="vendor/realme/RMX2001" name="vendor_realme_RMX2001" remote="myself" revision="ten" />
 
     <!-- fwb -->
