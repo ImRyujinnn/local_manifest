@@ -9,7 +9,4 @@
     <project path="device/realme/RMX2001" name="device_realme_RMX2001" remote="myself" revision="17.1" />
     <project path="kernel/realme/RMX2001" name="sarthakroy2002/kernel_realme_wasabi" remote="gb" revision="Q" />
     <project path="vendor/realme/RMX2001" name="vendor_realme_RMX2001" remote="myself" revision="ten" />
-
-    <!-- proton -->
-    <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="gb" revision="master" clone-depth="1" />
-    </manifest>
+</manifest>
