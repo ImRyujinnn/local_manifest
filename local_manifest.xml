@@ -28,7 +28,7 @@
     <project path="frameworks/opt/Telephony" name="android_frameworks_opt_telephony" remote="los" />
 
     <!-- vendor -->
-    <remove-project name="android_vendor_resurrection"
+    <remove-project name="android_vendor_resurrection" />
     <project path="vendor/rr" name="Kneba/android_vendor_resurrection" remote="gb" revision="Q" />
 
     </manifest>
