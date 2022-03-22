@@ -7,7 +7,7 @@
     <remote name="kneba" fetch="https://github.com/Kneba" />
 
     <!-- Sync trees -->
-    <project path="device/realme/RMX2001" name="device_realme_RMX2001-10" remote="myself" revision="staging" />
+    <project path="device/realme/RMX2001" name="device_realme_RMX2001-10" remote="myself" revision="master" />
     <project path="vendor/realme/RMX2001" name="vendor_realme_RMX2001" remote="myself" revision="ten" />
 
     <!-- fwb -->
