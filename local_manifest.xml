@@ -28,6 +28,6 @@
 
     <!-- vendor -->
     <remove-project name="android_vendor_resurrection" />
-    <project path="vendor/rr" name="Kandroid_vendor_resurrection" remote="kneba" revision="Q" />
+    <project path="vendor/rr" name="android_vendor_resurrection" remote="kneba" revision="Q" />
 
     </manifest>
