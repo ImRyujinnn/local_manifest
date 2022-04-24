@@ -9,6 +9,8 @@
     <!-- Sync trees -->
     <project path="device/realme/RMX2001" name="device_realme_RMX2001-10" remote="myself" revision="master" />
     <project path="vendor/realme/RMX2001" name="vendor_realme_RMX2001" remote="myself" revision="ten" />
+    <project path="device/mediatek/sepolicy" name="android_device_mediatek_sepolicy" remote="los" />
+    <project path="kernel/realme/RMX2001" name="kernel_realme_wasabi" remote="myself" revision="Q" />
 
     <!-- fwb -->
     <remove-project name="android_frameworks_base" />
