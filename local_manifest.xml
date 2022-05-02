@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Github remote -->
-    <remote name="myself" fetch="https://github.com/LynzhX" />
+    <remote name="myself" fetch="https://github.com/ImRyujinnn" />
     <remote name="officialputuid" fetch="https://github.com/officialputuid" />
 
     <!-- Sync trees -->
