@@ -6,8 +6,8 @@
 
     <remove-project name="android_system_vold" />
     <remove-project name="android_bootable_recovery" />
-    <project path="bootable/recovery" name="android_bootable_recovery" remote="myself" revision="android-12.1" />
-    <project path="system/vold" name="faoliveira78/android_system_vold" remote="github" revision="android-12.1" />
-    <project path="devuce/xiaomi/agate" name="recovery_device_xiaomi_agate" remote="myself" revision="master" />
+    <project path="bootable/recovery" name="LynzhXPatch/android_bootable_recovery" remote="github" revision="android-12.1" />
+    <project path="system/vold" name="LynzhXPatch/android_system_vold" remote="github" revision="android-12.1" />
+    <project path="device/xiaomi/agate" name="recovery_device_xiaomi_agate" remote="myself" revision="master" />
 
     </manifest>
